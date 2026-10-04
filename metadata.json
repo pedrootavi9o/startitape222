@@ -1,0 +1,6 @@
+{
+  "name": "START ITAPE - Streetwear",
+  "description": "Loja oficial de streetwear e sneakers em Itapetininga/SP. Retirada no Mercado Municipal Box 15.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
